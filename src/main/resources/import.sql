@@ -1,2 +1,2 @@
-INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Cristian', 'Alvias', 'cristian@alvias.com', '2023-02-20');
-INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('John', 'Doe', 'johnn@doe.com', '2023-02-20');
+INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES ('Cristian', 'Alvias', 'cristian@alvias.com', '2023-02-20', '');
+INSERT INTO clientes (nombre, apellido, email, create_at, foto) VALUES ('John', 'Doe', 'johnn@doe.com', '2023-02-20', '');
